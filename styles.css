@@ -1543,11 +1543,6 @@ a.cta-secondary {
     display: inline;
   }
 
-  .sales-hero .sales-gift-box,
-  .sales-hero .sales-price,
-  .sales-hero .sales-highlight {
-    display: none;
-  }
 
   .hero-title .marker-line {
     white-space: nowrap;
